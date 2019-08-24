@@ -5,6 +5,8 @@ This guide is a community collaboration effort to setup on-premise (self-hosted)
 Original discussion is in this Forum:
 [Guide - Deploy Signal Server v2.xx + CDS + SGX](https://community.signalusers.org/t/guide-deploy-signal-server-v2-xx-cds-sgx/8331)
 
+Signal™ is a trademark of Quiet Riddle Ventures LLC. The SecureSign projects are not affliated with Signal.org, Signal Messenger LLC, nor Signal Foundation.
+
 Environment assumpted:
 1. Ubuntu 18.04
 2. Intel Processor with SGX enabled
